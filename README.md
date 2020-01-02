@@ -6,7 +6,7 @@ These codes generate simulation results depicted in the paper titled
 J. Chen and D. Gesbert, "Efficient Local Map Search Algorithms for the
 Placement of Flying Relays", IEEE Trans.  Wireless Commun., 2019.
 
-## How we modeled the city:
+## How we modeled the city
 We modeled the city as a set of buildings, where each building is modeled as a set of cubes. You can imagine that a cylindrical building can be geometrically constructed by a large number of long cubes. Each cube can be described by 4 line segments and a height. 
 
 Whether a UAV-user link is blocked is determined by whether the line segment joining the UAV and the user penetrate one of these cubes. 
