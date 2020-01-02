@@ -20,7 +20,7 @@ Despite there are tens of thousands of buildings (or, in our terminology, cubes)
 
 The variable "Topology" in topologyK2.mat contains 10,000 cells, where each cell represents the equivalent city topology given a specific user position. For example,
 
-matlab$ Topology{253}
+matlab-prompt>> Topology{253}
 
 ans = 
 
